@@ -13,7 +13,7 @@ COMPILE TOOLS
 
 AUTHORS
 ===============
-* 
+* Jürgen Dittmer
 
 LINKS
 ===============
